@@ -1,0 +1,124 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Masini.cpp
+Masini.h
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Masini.h
+cstring
+-
+fstream
+-
+conio.h
+-
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Masini.h
+iostream
+-
+cstring
+-
+conio.h
+-
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Offroad.cpp
+Offroad.h
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Offroad.h
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Offroad.h
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Premium.cpp
+Premium.h
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Premium.h
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Premium.h
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Standard.cpp
+Standard.h
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Standard.h
+cstring
+-
+fstream
+-
+conio.h
+-
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Standard.h
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Meniu/Inchirieri.cpp
+Inchirieri.h
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Meniu/Inchirieri.h
+string
+-
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Meniu/Inchirieri.h
+string
+-
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Meniu/Meniu.cpp
+Meniu.h
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Meniu/Meniu.h
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Meniu/Meniu.h
+../Masini/Masini.cpp
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Masini.cpp
+../Masini/Standard.cpp
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Standard.cpp
+../Masini/Offroad.cpp
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Offroad.cpp
+../Masini/Premium.cpp
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Premium.cpp
+../Structuri/RBTree.h
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Structuri/RBTree.h
+../Structuri/HashMap.h
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Structuri/HashMap.h
+../Structuri/RBTreeInt.h
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Structuri/RBTreeInt.h
+fstream
+-
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Structuri/HashMap.h
+../Masini/Masini.h
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Masini.h
+../Masini/Offroad.h
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Offroad.h
+../Masini/Premium.h
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Premium.h
+../Masini/Standard.h
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Masini/Standard.h
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Structuri/HashMapInt.h
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Structuri/RBTree.h
+string
+-
+iostream
+-
+sstream
+-
+deque
+-
+HashMapInt.h
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Structuri/HashMapInt.h
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Structuri/RBTreeInt.h
+string
+-
+iostream
+-
+sstream
+-
+deque
+-
+../Meniu/Inchirieri.cpp
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Meniu/Inchirieri.cpp
+
+E:/Anul 2/Programe C++/ASD avansat/Proiect/main.cpp
+iostream
+-
+Meniu/Meniu.cpp
+E:/Anul 2/Programe C++/ASD avansat/Proiect/Meniu/Meniu.cpp
+
